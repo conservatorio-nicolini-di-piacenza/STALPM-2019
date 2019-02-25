@@ -22,6 +22,11 @@ _(Musica applicata)_
  - [https://www.w3.org/TR/webaudio/](https://www.w3.org/TR/webaudio/)
  - [https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
  - [https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Basic_concepts_behind_Web_Audio_API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Basic_concepts_behind_Web_Audio_API)
+ - [https://www.w3.org/standards/webdesign/htmlcss](https://www.w3.org/standards/webdesign/htmlcss)
+ 
+ ### Notes
+  - HTML (the Hypertext Markup Language)  
+  - CSS (Cascading Style Sheets)
 ---
 
 [Slack Us](https://stalpm-2019.slack.com/)
