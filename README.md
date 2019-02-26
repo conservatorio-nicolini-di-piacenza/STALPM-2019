@@ -25,7 +25,7 @@ _(Musica applicata)_
  - [https://www.w3.org/standards/webdesign/htmlcss](https://www.w3.org/standards/webdesign/htmlcss)
  - [https://www.imdb.com/title/tt0168122/?ref_=nv_sr_1](https://www.imdb.com/title/tt0168122/?ref_=nv_sr_1)
  - [https://www.imdb.com/title/tt5275828/?ref_=nv_sr_1](https://www.imdb.com/title/tt5275828/?ref_=nv_sr_1)
- - [https://www.imdb.com/title/tt2080374/?ref_=nv_sr_1]8https://www.imdb.com/title/tt2080374/?ref_=nv_sr_1)
+ - [https://www.imdb.com/title/tt2080374/?ref_=nv_sr_1](https://www.imdb.com/title/tt2080374/?ref_=nv_sr_1)
  
  ### Software 
  - [https://atom.io/](https://atom.io/)
