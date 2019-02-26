@@ -24,6 +24,10 @@ _(Musica applicata)_
  - [https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Basic_concepts_behind_Web_Audio_API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Basic_concepts_behind_Web_Audio_API)
  - [https://www.w3.org/standards/webdesign/htmlcss](https://www.w3.org/standards/webdesign/htmlcss)
  
+ ### Software 
+ - [https://atom.io/](https://atom.io/)
+ - [https://desktop.github.com/](https://desktop.github.com/)
+ 
  ### Notes
   - HTML (the Hypertext Markup Language)  
   - CSS (Cascading Style Sheets)
