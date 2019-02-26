@@ -36,7 +36,7 @@ _(Musica applicata)_
   - [msys2](http://www.msys2.org)
   
  #### Mac OS
- -[homebrew](https://brew.sh/)
+  - [homebrew](https://brew.sh/)
  
  ### Notes
   - HTML (the Hypertext Markup Language)  
