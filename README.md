@@ -33,7 +33,7 @@ _(Musica applicata)_
  - [https://desktop.github.com/](https://desktop.github.com/)
  
  #### Windows
-  - [http://www.msys2.org](msys2)
+  - [msys2](http://www.msys2.org)
  
  ### Notes
   - HTML (the Hypertext Markup Language)  
