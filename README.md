@@ -32,6 +32,9 @@ _(Musica applicata)_
  - [https://atom.io/](https://atom.io/)
  - [https://desktop.github.com/](https://desktop.github.com/)
  
+ #### Windows
+  - [http://www.msys2.org](msys2)
+ 
  ### Notes
   - HTML (the Hypertext Markup Language)  
   - CSS (Cascading Style Sheets)
