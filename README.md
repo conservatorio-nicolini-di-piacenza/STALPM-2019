@@ -29,8 +29,8 @@ _(Musica applicata)_
  - [https://www.imdb.com/title/tt2080374/?ref_=nv_sr_1](https://www.imdb.com/title/tt2080374/?ref_=nv_sr_1)
  
  ### Software 
- - [https://atom.io/](https://atom.io/)
- - [https://desktop.github.com/](https://desktop.github.com/)
+ - [atom](https://atom.io/)
+ - [github desktop app](https://desktop.github.com/)
  
  #### Windows
   - [msys2](http://www.msys2.org)
