@@ -35,6 +35,7 @@ _(Musica applicata)_
 
  #### Windows
   - [msys2](http://www.msys2.org)
+  - [Jekyll](https://jekyllrb.com/docs/installation/windows/)
 
  #### Mac OS
   - [homebrew](https://brew.sh/)
