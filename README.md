@@ -39,7 +39,7 @@ _(Musica applicata)_
  #### Mac OS
   - [homebrew](https://brew.sh/)
   
-  to update
+  to update    
   `brew update && brew upgrade`
 
  ### Notes
