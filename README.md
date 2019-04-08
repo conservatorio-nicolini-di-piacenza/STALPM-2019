@@ -38,6 +38,9 @@ _(Musica applicata)_
 
  #### Mac OS
   - [homebrew](https://brew.sh/)
+  
+  to update
+  `brew update && brew upgrade`
 
  ### Notes
   - HTML (the Hypertext Markup Language)  
