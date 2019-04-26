@@ -28,6 +28,7 @@ Lezioni:
  - [https://www.w3.org/standards/webdesign/htmlcss](https://www.w3.org/standards/webdesign/htmlcss)
  -  [https://www.learnenough.com/command-line-tutorial/basics](https://www.learnenough.com/command-line-tutorial/basics)
  - [temi blog](http://jekyllthemes.org) 
+ - [faust](https://faust.grame.fr)
 
 ### Movies
  - [I pirati della Silicon Valley](https://www.imdb.com/title/tt0168122/?ref_=nv_sr_1)
@@ -44,6 +45,7 @@ Lezioni:
  ### Software
  - [atom](https://atom.io/)
  - [github desktop app](https://desktop.github.com/)
+ - [faust](https://faust.grame.fr)
 
  #### Windows
   - [msys2](http://www.msys2.org)
