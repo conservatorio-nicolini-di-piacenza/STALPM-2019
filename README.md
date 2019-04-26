@@ -10,16 +10,10 @@ _(Musica applicata)_
 - Programmazione WebAudio app in ambiente Faust, HTML5, CSS
 
 Lezioni:
- 1. Computer basic setup:
-   - GitHub account
-   - git
-   - Homebrew
-   - rvm
-   - ruby
-   - Atom
- 2. GitHub setup
- 3. Jekyll 
- 4. Faust
+ * Computer basic setup: GitHub account, git, Homebrew, rvm, Ruby, Atom,
+ * GitHub setup
+ * Jekyll 
+ * Faust
 
 ### References
  - [https://www.w3.org/TR/webaudio/](https://www.w3.org/TR/webaudio/)
