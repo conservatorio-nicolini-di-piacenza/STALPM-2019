@@ -36,11 +36,6 @@ Lezioni:
  - [https://mdn.github.io/voice-change-o-matic/](https://mdn.github.io/voice-change-o-matic/)
  - [http://mdn.github.io/violent-theremin/](http://mdn.github.io/violent-theremin/)
  
- ### Software
- - [atom](https://atom.io/)
- - [github desktop app](https://desktop.github.com/)
- - [faust](https://faust.grame.fr)
-
  #### Windows
   - [msys2](http://www.msys2.org)
   - [Jekyll](https://jekyllrb.com/docs/installation/windows/)
@@ -51,6 +46,11 @@ Lezioni:
   to update    
   `brew update && brew upgrade`
 
+ ### Software
+ - [atom](https://atom.io/)
+ - [github desktop app](https://desktop.github.com/)
+ - [faust](https://faust.grame.fr)
+ 
  ### Notes
   - HTML (the Hypertext Markup Language)  
   - CSS (Cascading Style Sheets)
