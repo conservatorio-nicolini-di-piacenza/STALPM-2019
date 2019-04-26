@@ -6,17 +6,20 @@ Conservatorio di Musica Nicolini di Piacenza
 
 _(Musica applicata)_
 
- 1. Computer basic setup: GitHub account, git, homebrew, rvm, ruby, npm… Atom.
- 2. GitHub guide, Slack
- 3. Faust
- 4. Jekyll
+- Introduzione alle WebAudio app attraverso l’analisi di WebAudio API
+- Programmazione WebAudio app in ambiente Faust, HTML5, CSS
 
-### Alcuni esempi:
- - [https://www.futurelibrary.no/#/](https://www.futurelibrary.no/#/)
- - [https://css-tricks.com/form-validation-web-audio/](https://css-tricks.com/form-validation-web-audio/)
- - [https://codepen.io/Rumyra/pen/qyMzqN/](https://codepen.io/Rumyra/pen/qyMzqN/)
- - [https://mdn.github.io/voice-change-o-matic/](https://mdn.github.io/voice-change-o-matic/)
- - [http://mdn.github.io/violent-theremin/](http://mdn.github.io/violent-theremin/)
+Lezioni:
+ 1. Computer basic setup:
+   - GitHub account
+   - git
+   - Homebrew
+   - rvm
+   - ruby
+   - Atom
+ 2. GitHub setup
+ 3. Jekyll 
+ 4. Faust
 
 ### References
  - [https://www.w3.org/TR/webaudio/](https://www.w3.org/TR/webaudio/)
@@ -29,6 +32,13 @@ _(Musica applicata)_
  - [Steve Jobs](https://www.imdb.com/title/tt2080374/?ref_=nv_sr_1)
  - [temi blog](http://jekyllthemes.org)
 
+### Alcuni esempi:
+ - [https://www.futurelibrary.no/#/](https://www.futurelibrary.no/#/)
+ - [https://css-tricks.com/form-validation-web-audio/](https://css-tricks.com/form-validation-web-audio/)
+ - [https://codepen.io/Rumyra/pen/qyMzqN/](https://codepen.io/Rumyra/pen/qyMzqN/)
+ - [https://mdn.github.io/voice-change-o-matic/](https://mdn.github.io/voice-change-o-matic/)
+ - [http://mdn.github.io/violent-theremin/](http://mdn.github.io/violent-theremin/)
+ 
  ### Software
  - [atom](https://atom.io/)
  - [github desktop app](https://desktop.github.com/)
