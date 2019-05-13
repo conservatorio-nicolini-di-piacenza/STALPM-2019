@@ -38,7 +38,7 @@ Lezioni:
  
  #### Windows
   - [msys2](http://www.msys2.org)
-  - [Jekyll](https://jekyllrb.com/docs/installation/windows/)
+  
 
  #### Mac OS
   - [homebrew](https://brew.sh/)
@@ -50,6 +50,7 @@ Lezioni:
  - [atom](https://atom.io/)
  - [github desktop app](https://desktop.github.com/)
  - [faust](https://faust.grame.fr)
+ - [Jekyll](https://jekyllrb.com/docs/installation/windows/)
  
  ### Notes
   - HTML (the Hypertext Markup Language)  
