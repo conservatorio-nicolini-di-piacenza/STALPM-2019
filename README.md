@@ -38,10 +38,11 @@ Lezioni:
  
  #### Windows
   - [msys2](http://www.msys2.org)
-  
+  - [Jekyll](https://jekyllrb.com/docs/installation/windows/)
 
  #### Mac OS
   - [homebrew](https://brew.sh/)
+  - [Jekyll](https://jekyllrb.com)
   
   to update    
   `brew update && brew upgrade`
@@ -50,7 +51,6 @@ Lezioni:
  - [atom](https://atom.io/)
  - [github desktop app](https://desktop.github.com/)
  - [faust](https://github.com/grame-cncm/faust)
- - [Jekyll](https://jekyllrb.com/docs/installation/windows/)
  
  ### Notes
   - HTML (the Hypertext Markup Language)  
