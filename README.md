@@ -49,7 +49,7 @@ Lezioni:
  ### Software
  - [atom](https://atom.io/)
  - [github desktop app](https://desktop.github.com/)
- - [faust](https://faust.grame.fr)
+ - [faust](https://jekyllrb.com/docs/installation/windows/)
  - [Jekyll](https://jekyllrb.com/docs/installation/windows/)
  
  ### Notes
